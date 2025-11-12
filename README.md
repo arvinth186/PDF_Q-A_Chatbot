@@ -137,6 +137,6 @@ Then open: <a href="http://localhost:8501">http://localhost:8501
 
 <h2>💖 Acknowledgements</h2> <p>Special thanks to:</p> <ul> <li><a href="https://www.langchain.com/">LangChain</a> – modular AI orchestration</li> <li><a href="https://groq.com/">Groq Cloud</a> – ultra-fast inference engine</li> <li><a href="https://huggingface.co/">HuggingFace</a> – embedding models</li> <li><a href="https://streamlit.io/">Streamlit</a> – easy interactive app building</li> </ul>
 
-<h2>👨‍💻 Author</h2> <p><b>Arvinth Athikesav</b><br> 🚀 Passionate about Generative AI, LangChain, and LLM Applications.<br> 📫 Connect on <a href="https://github.com/arvinth186">GitHub</a> </p> ```
+<h2>👨‍💻 Author</h2> <p><b>Arvinth Athikesav</b><br> 🚀 Passionate about Generative AI, LangChain, and LLM Applications.<br> 📫 Connect on <a href="https://github.com/arvinth186">GitHub</a> </p> 
 
 
